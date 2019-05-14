@@ -58,3 +58,7 @@ a:hover {
    font-size: 25px;
    font-weight: 300;
 }
+
+#hamburger {
+   display: none;
+}
